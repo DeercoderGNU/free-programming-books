@@ -24,9 +24,10 @@ TODO
     - [ ] ja
     - [ ] ko
     - [ ] pt_BR
-    - [ ] pt_PT
+    - [X] pt_PT
     - [x] ru
     - [ ] tr
-    - [ ] zh
+    - [x] zh
     - [ ] javascript framework
-    - [ ] courses
+    - [x] courses
+    - [ ] problem sets
